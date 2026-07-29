@@ -36,7 +36,7 @@ function MovieCard({ movie }: MovieCardProps) {
   return (
     <article className="bg-slate-800 text-slate-100 rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 flex flex-col justify-between border border-slate-700">
       
-      <div className="relative h-64 overflow-hidden group">
+      <div className="relative aspect-[2/3] overflow-hidden group">
         <img
           className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
           src={image}

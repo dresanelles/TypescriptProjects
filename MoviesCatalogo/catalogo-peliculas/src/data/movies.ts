@@ -19,7 +19,7 @@ export const movies: IMovie[] = [
     director: "Brian De Palma",
     duration: 170,
     rating: 8.3,
-    image: "https://upload.wikimedia.org/wikipedia/en/7/71/Scarface_-_1983_film.jpg",
+    image: "https://www.themoviedb.org/t/p/w600_and_h900_face/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
     description: "Un refugiado cubano frío y ambicioso llega a Miami y asciende hasta convertirse en un poderoso y despiadado capo de la droga."
   },
   {
@@ -30,7 +30,7 @@ export const movies: IMovie[] = [
     director: "Francis Ford Coppola",
     duration: 175,
     rating: 9.2,
-    image: "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    image: "https://www.themoviedb.org/t/p/w600_and_h900_face/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
     description: "La historia de una poderosa familia de la mafia y el ascenso de un nuevo líder dentro de ella."
   },
   {
@@ -41,7 +41,7 @@ export const movies: IMovie[] = [
     director: "Christopher Nolan",
     duration: 152,
     rating: 9.0,
-    image: "https://image.tmdb.org/t/p/w500/qJ2tCh2ThB3dzBKG83331M33x05.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
     description: "Batman se enfrenta a un criminal que busca sumir a Ciudad Gótica en el caos."
   },
   {
@@ -63,7 +63,7 @@ export const movies: IMovie[] = [
     director: "Robert Zemeckis",
     duration: 142,
     rating: 8.8,
-    image: "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9L113y38o.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
     description: "Un hombre de gran corazón participa accidentalmente en importantes acontecimientos históricos."
   },
   {
@@ -74,7 +74,7 @@ export const movies: IMovie[] = [
     director: "Christopher Nolan",
     duration: 148,
     rating: 8.8,
-    image: "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8B1.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
     description: "Un equipo especializado entra en los sueños para implantar una idea en la mente de una persona."
   },
   {
@@ -96,7 +96,7 @@ export const movies: IMovie[] = [
     director: "Lana y Lilly Wachowski",
     duration: 136,
     rating: 8.7,
-    image: "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
     description: "Un programador descubre que el mundo en el que vive es una simulación controlada por máquinas."
   },
   {
@@ -107,7 +107,7 @@ export const movies: IMovie[] = [
     director: "Martin Scorsese",
     duration: 145,
     rating: 8.7,
-    image: "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJ3xZ17A323S2K31.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
     description: "Un joven se introduce en el mundo del crimen organizado y conoce sus beneficios y consecuencias."
   },
   {
@@ -118,7 +118,7 @@ export const movies: IMovie[] = [
     director: "Christopher Nolan",
     duration: 169,
     rating: 8.7,
-    image: "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBv9B.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
     description: "Un grupo de astronautas viaja por el espacio en busca de un nuevo hogar para la humanidad."
   },
   {
@@ -129,7 +129,7 @@ export const movies: IMovie[] = [
     director: "Bong Joon-ho",
     duration: 132,
     rating: 8.5,
-    image: "https://image.tmdb.org/t/p/w500/7IiT3883YwsS1A3C31L3S4883.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
     description: "Una familia con dificultades económicas comienza a trabajar para una familia adinerada."
   },
   {
@@ -140,7 +140,7 @@ export const movies: IMovie[] = [
     director: "Ridley Scott",
     duration: 155,
     rating: 8.5,
-    image: "https://image.tmdb.org/t/p/w500/ty8T3ed2oA323143G3s3221.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
     description: "Un general romano traicionado busca justicia mientras lucha como gladiador."
   },
   {
@@ -151,7 +151,7 @@ export const movies: IMovie[] = [
     director: "Roger Allers y Rob Minkoff",
     duration: 88,
     rating: 8.5,
-    image: "https://image.tmdb.org/t/p/w500/sKCr78328198S8s2.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
     description: "Un joven león debe aceptar su destino y recuperar el reino que le pertenece."
   },
   {
@@ -162,7 +162,7 @@ export const movies: IMovie[] = [
     director: "Damien Chazelle",
     duration: 106,
     rating: 8.5,
-    image: "https://image.tmdb.org/t/p/w500/7123s8329S188.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
     description: "Un joven baterista se enfrenta a un exigente profesor que busca llevarlo al límite."
   },
   {
@@ -173,7 +173,7 @@ export const movies: IMovie[] = [
     director: "Robert Zemeckis",
     duration: 116,
     rating: 8.5,
-    image: "https://image.tmdb.org/t/p/w500/fT1283289111.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
     description: "Un adolescente viaja accidentalmente al pasado en una máquina del tiempo."
   },
   {
@@ -184,7 +184,7 @@ export const movies: IMovie[] = [
     director: "Hayao Miyazaki",
     duration: 125,
     rating: 8.6,
-    image: "https://image.tmdb.org/t/p/w500/393288111.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     description: "Una niña entra en un mundo mágico y debe encontrar la forma de salvar a sus padres."
   },
   {
@@ -195,7 +195,7 @@ export const movies: IMovie[] = [
     director: "Lee Unkrich",
     duration: 105,
     rating: 8.4,
-    image: "https://image.tmdb.org/t/p/w500/g4328811.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
     description: "Un niño apasionado por la música viaja al mundo de los muertos para conocer su historia familiar."
   },
   {
@@ -206,7 +206,7 @@ export const movies: IMovie[] = [
     director: "Todd Phillips",
     duration: 122,
     rating: 8.3,
-    image: "https://image.tmdb.org/t/p/w500/ud32811.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
     description: "Un hombre marginado por la sociedad comienza una transformación que causa caos en la ciudad."
   },
   {
@@ -217,7 +217,7 @@ export const movies: IMovie[] = [
     director: "Anthony y Joe Russo",
     duration: 181,
     rating: 8.4,
-    image: "https://image.tmdb.org/t/p/w500/or32811.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
     description: "Los héroes sobrevivientes se reúnen para intentar revertir una tragedia universal."
   },
   {
@@ -228,7 +228,7 @@ export const movies: IMovie[] = [
     director: "Peter Weir",
     duration: 103,
     rating: 8.2,
-    image: "https://image.tmdb.org/t/p/w500/vu32811.jpg",
+    image: "https://image.tmdb.org/t/p/w600_and_h900_face/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
     description: "Un hombre comienza a sospechar que toda su vida forma parte de un programa de televisión."
   }
 ];
