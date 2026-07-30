@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+@theme {
+  --color-grisclaro: #F5F5F5;
+  --color-aqua: #76ABAE;
+  --color-grisdark: #303841;
+  --color-naranja: #FF5722;
+}
+
+/* https://colorhunt.co/palette/f5f5f576abae303841ff5722 (paleta colores) */
+
+
+/* F5F5F5
+76ABAE
+303841
+FF5722 */
